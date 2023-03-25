@@ -1,12 +1,12 @@
 Q1. Search and ye shall find...                                                                         [5]
 
 
-Q2. I am a tool that can decode,                                                                        [10]
+Q2. I am a tool that can decode,                                                                        
     A file that's hidden in plain code.
     Use me with care, and you may find,
     A flag that's been left behind.
     What am I, and how can you reveal,
-    The secrets that this file conceals?
+    The secrets that this file conceals?                                                                [10]
 
 
 Q3. Caesar holds a secret. Can you reveal it?                                                           [15]
