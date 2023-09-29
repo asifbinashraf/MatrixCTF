@@ -22,3 +22,7 @@ Q6. Caesar's back with a bigger secret. Get it out of him!                      
 
 
 Q7. We've intercepted a message and think this is the script that produced it. What does it mean?       [20]
+
+Q8. This is a generic picture. What is the exposure time of this photograph?                            [20]
+
+Q9. Nothing unusal about a FAST logo right! Format: "FASTCTF{FLAG}"                                     [20]
